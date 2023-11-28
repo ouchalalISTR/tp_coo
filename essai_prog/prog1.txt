@@ -8,5 +8,6 @@ int main ()
   cout << donnez la valeur de a <<endl;
   cin >> a;
   
-  cout << "la valeur de a est" << a <<endl;
+  return 0;
+}
   
