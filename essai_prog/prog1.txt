@@ -1,0 +1,12 @@
+#include<iostream>
+
+using namespace std;
+
+int main ()
+{
+ auto a{0};
+  cout << donnez la valeur de a <<endl;
+  cin >> a;
+  
+  cout << "la valeur de a est" << a <<endl;
+  
