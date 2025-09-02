@@ -1,5 +1,6 @@
 from django.db import models
 
+# just a little comment to check branch switches
 
 class Departement(models.Model):
     numero = models.IntegerField()
