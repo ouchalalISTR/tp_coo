@@ -2,6 +2,8 @@ from django.db import models
 
 # just a little comment to check branch switches
 
+#checking a git merge
+
 class Departement(models.Model):
     numero = models.IntegerField()
     prix_m2 = models.IntegerField()
